@@ -1,4 +1,4 @@
-### Merhaba ben fatih 👋
+### Selamlar ben fatih 👋
 Kendimden kısaca bahsetmek gerekirse, 
 
 İlk yazılım hayatıma delphi 6 ile başladım, 2007 yılından itibaren c# ile devam ettim. İlk zamanlarda kullanıcılar için c# windows form ado.net uygulamaları hazırladım.
