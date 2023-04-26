@@ -7,7 +7,7 @@ Daha sonra yazılımın backend/frontend olarak ayrılmasıyla beraber, backend 
 
 Aktif olarak; .net core 7 web api ve angular 15(typescript) kullanıyorum.
 
-Here are some ideas to get you started:
+Gruplara ayırmak gerekirse:
 
 - 🔭 Aktif olarak kullandığım diller: .net core 7 web api, angular 15
 - 💬 Veritabanları: Ms Sql server, postgresql, mongodb, redis
