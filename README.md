@@ -2,16 +2,16 @@
 Kendimden kısaca bahsetmek gerekirse, 
 
 İlk yazılım hayatıma delphi 6 ile başladım, 2007 yılından itibaren c# ile devam ettim. İlk zamanlarda kullanıcılar için c# windows form ado.net uygulamaları hazırladım.
-Daha sonra yazılımın backend/frontend olarak ayrılmasıyla beraber, backend tarafında .net core 7, frontend tarafında angular kullanmaya başladım.
+Daha sonra yazılımın backend/frontend olarak ayrılmasıyla beraber, backend tarafında .net core 7, frontend tarafında blazor kullanmaya başladım.
 
 
-Aktif olarak; .net core 7 web api ve angular 15(typescript) kullanıyorum.
+Aktif olarak; .net core 7 web api(microservices) ve blazor wasm kullanıyorum.
 
 Gruplara ayırmak gerekirse:
 
-- 🔭 Aktif olarak kullandığım diller: .net core 7 web api, angular 15
+- 🔭 Aktif olarak : .net core 7 web api, blazor wasm, rabbitmq, dotnetcore-cap, ocelot, redis
 - 💬 Veritabanları: Ms Sql server, postgresql, mongodb, redis
-- 📫 Daha önce kullandığım diller: ReactJS, react-native, python, django...
+- 📫 Daha önce kullandığım diller: Angular 15, ReactJS, react-native, python, django...
 - ⚡ Dependency Injection, Autofact, Automapper, Validation, Ocelot, Rabbitmq, Keycloak, JWT,
 - 😄 IoT projeleri: arduino pro mini ve nrf24l01 kullanarak ufak çaplı bir tarla sulama uygulaması...
 - 🤔 Daha öğreneceğimiz çok şey var, her zaman gelişmek için öğrenmek gerek ...
