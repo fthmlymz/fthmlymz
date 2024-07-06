@@ -5,7 +5,7 @@ Kendimden kısaca bahsetmek gerekirse,
 Daha sonra yazılımın backend/frontend olarak ayrılmasıyla beraber, backend tarafında .net core, frontend tarafında blazor kullanmaya başladım.
 
 
-Aktif olarak; .Net Core 8 Web Api, Microservices ve blazor server kullaanıyorum.
+Aktif olarak; .Net Core 8 Web Api, Microservices ve blazor server kullanıyorum.
 
 Gruplara ayırmak gerekirse:
 
